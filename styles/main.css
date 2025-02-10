@@ -71,3 +71,43 @@ div.dcbackground > div.digitalwatch > div.dayandclock > span.clock {
     background: var(--background-gradiant);
 }
 
+
+div.dcbackground > div.digitalwatch > div.themecolor {
+    width: 310px;
+    height: 50px;
+    box-sizing: border-box;
+}
+
+
+div.dcbackground > div.digitalwatch > div.themecolor > div.circleborder > .theme {
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+}
+
+div.dcbackground > div.digitalwatch > div.themecolor > div.circleborder {
+    border: 2px solid transparent;
+    padding: 3px;
+    transition: border-color 0.3s ease;
+}
+
+/* Border colors for each theme */
+div.dcbackground > div.digitalwatch > div.themecolor > div.circleborder.active.redc {
+    border-color: #fa2803; /* Red */
+}
+
+div.dcbackground > div.digitalwatch > div.themecolor > div.circleborder.active.bluec {
+    border-color: #2f80ed; /* Blue */
+}
+
+div.dcbackground > div.digitalwatch > div.themecolor > div.circleborder.active.yelloc {
+    border-color: #f5af19; /* Yellow */
+}
+
+div.dcbackground > div.digitalwatch > div.themecolor > div.circleborder.active.greenc {
+    border-color: #576500; /* Green */
+}
+
+div.dcbackground > div.digitalwatch > div.themecolor > div.circleborder.active.purplec {
+    border-color: #7f00ff; /* Purple */
+}
