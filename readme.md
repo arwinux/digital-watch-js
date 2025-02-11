@@ -76,12 +76,5 @@ digital-watch-js/
 ## 📜 License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
-
-## 📬 Contact
-
-📧 **Email:** [arwinux.dev@gmail.com](mailto\:arwinux.dev@gmail.com)\
-🐙 **GitHub:** [@arwinux](https://github.com/arwinux)\
-🌐 **Website:** [arwinux.dev](https://arwinux.dev)
-
 If you like this project, consider giving it a ⭐ on [GitHub](https://github.com/arwinux/digital-watch-js)! 🚀
 
