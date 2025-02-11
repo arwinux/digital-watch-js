@@ -3,7 +3,6 @@
 div.dcbackground {
     background: transparent url("../assets/images/greenc.jpg") no-repeat center center;
     background-size: cover;
-    transition: all 300ms linear;
 }
 
 div.dcbackground > div.digitalwatch {
