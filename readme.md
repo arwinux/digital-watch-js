@@ -2,7 +2,7 @@
 
 ## 🚀 Introduction
 
-**Digital Watch** is a modern and interactive digital clock built using HTML, CSS, and JavaScript. This project
+**Digital Watch** is a sleek and interactive web-based clock that displays the current date, time, and day of the week with dynamic styling. Featuring customizable themes, a responsive design, and smooth real-time updates, this project is perfect for learning JavaScript time manipulation and CSS styling techniques.
 showcases a beautifully designed timepiece with:
 
 - Live time updates ⏰
